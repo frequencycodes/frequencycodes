@@ -1,6 +1,13 @@
 ### Hi there 👋 My name is Aaron! Welcome to my GitHub.
 
-I am a writer & editor, photographer, filmmaker, plant dad, connector, and logical realist currently learning JavaScript so I can one day become a full time Dev!
+I am a writer & editor, photographer, filmmaker, and dog dad currently learning JavaScript so I can one day become a full time Dev! Making a career change is scary and never easy, but I am determined to prove that it is possible even in your 30's.
+
+Follow me on <a href="https://www.instagram.com/frequencycodes/">Instagram</a> where I will be documenting my "100 Days of Code" journey as well as posting pictures of my work from home desk set up and little bits of my life. Feel free to reach out and say hey!
+
+This is my boy Moose! aka Jedi Master, aka Sausage, aka Larry, aka Sleepy Boi.
+
+<img width="527" alt="Screen Shot 2021-06-18 at 16 21 41" src="https://user-images.githubusercontent.com/53911406/122623553-6166fd80-d051-11eb-9190-68c71171ffad.png">
+
 
 <!--
 **frequencycodes/frequencycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
