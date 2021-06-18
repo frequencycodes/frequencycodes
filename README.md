@@ -8,6 +8,7 @@ This is my boy Moose! aka Jedi Master, aka Sausage, aka Larry, aka Sleepy Boi.
 
 <img width="527" alt="Screen Shot 2021-06-18 at 16 21 41" src="https://user-images.githubusercontent.com/53911406/122623553-6166fd80-d051-11eb-9190-68c71171ffad.png">
 
+logic > emotion
 
 <!--
 **frequencycodes/frequencycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
