@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Aaron! Welcome to my GitHub.
+
+I am a writer & editor, photographer, filmmaker, plant dad, connector, and logical realist currently learning JavaScript!
 
 <!--
 **frequencycodes/frequencycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
