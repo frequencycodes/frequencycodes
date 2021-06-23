@@ -5,7 +5,7 @@ I am a writer, editor, photographer, filmmaker, and dog dad currently teaching m
 Follow me here as I create new projects, and on <a href="https://www.instagram.com/frequencycodes/">Instagram</a> where I will be documenting my "100 Days of Code" journey as well as posting pictures of my work-from-home set up and little bits of my life, you can also check out all my past work that I have posted. 
 Reach out and say hey!
 
-This is my boy Moose! aka Jedi Master, aka Sausage, aka Larry, aka Sleepy Boi.
+This is my boy Moose! aka Jedi Master, aka Bulldozer, aka Larry, aka Sleepy Boi.
 
 <img width="527" alt="Screen Shot 2021-06-18 at 16 21 41" src="https://user-images.githubusercontent.com/53911406/122623553-6166fd80-d051-11eb-9190-68c71171ffad.png">
 
