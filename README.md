@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Aaron! Welcome to my GitHub. I am back on the coding journey after a little over 3 months of some long overdue personal time. We can all get overwhelmed and burnt out pretty easily in this field, so it's important that we take the much needed time to recuperate and take care of ourselves.
+### Hi there 👋 My name is Aaron! Welcome to my GitHub. I am back on the coding journey after a little over 3 months of some long overdue personal time. We can all get overwhelmed and burnt out pretty easily in this field, so it's important that we take the much needed time to recuperate.
 
 
 
