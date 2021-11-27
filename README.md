@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Aaron! Welcome to my GitHub. I am back on the coding journey after a little over 3 months of some long overdue personal time. We can all get overwhelmed and burnt out pretty easily in this field, so it's important that we take the much needed time to recuperate.
+### Hi there 👋 My name is Aaron! Welcome to my GitHub. I am a freelance writer, front end developer, and dog dad. 
+My current projects include a Medium clone and a self publishing novel integration platform.
+I am currently learning back end development after not feeling challenged enough with front end environments.
+I am always looking for new people to meet and share ideas with, so feel free to reach out if you feel inclined :) 
 
 
 
