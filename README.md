@@ -1,6 +1,4 @@
-### Hi there 👋 My name is Aaron! Welcome to my GitHub. I am a freelance writer and ex jr front-end developer. I quit learning after a while to spend time with my family during some health issues, but I am back and currently teaching myself Python. I am still very much a beginner when it comes to software dev, but I am determined to learn enough in order to land a job quickly and stick it through this time around.
-My current projects include a Medium clone and a self-publishing novel integration platform.
-I am currently learning back-end development after realizing I dislike client-side environments, even though my projects do involve the front end.
+### Hi there 👋 My name is Aaron! Welcome to my GitHub.
 I am always looking for new people to meet and share ideas with, so feel free to reach out if you feel inclined :)
 
 
